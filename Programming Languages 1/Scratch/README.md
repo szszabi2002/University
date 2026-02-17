@@ -1,6 +1,6 @@
 # Strandlabda Játék - Scratch Projekt
 
-Programozási nyelvek 1 Scratch házi feladat.
+Programozási nyelvek 1 Scratch házi feladat. https://scratch.mit.edu/projects/1280411411
 **Készítette:** Szincsák Szabolcs
 
 ## A játék leírása
