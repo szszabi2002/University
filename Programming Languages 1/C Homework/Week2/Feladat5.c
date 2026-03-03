@@ -2,15 +2,17 @@
 
 int main()
 {
-    printf("ASCII táblázat 32-126: \n");
-    for (int i = 32; i <= 126; i++) {
-        printf("%d: %c\n", i, i);
+    printf("Kérem adjon meg egy számot és felsorolom a számokat -> használatával: ");
+    int szam;
+    scanf("%d", &szam);
+    for (int i = 1; i <= szam; i++)
+    {
+        printf("%d", i);
+        if (i < szam)
+        {
+            printf(" -> ");
+        }
     }
-    printf("Angol ábécé nagybetűihez tartozó ASCII értékek összege: ");
-    int osszeg = 0;
-    for (int i = 65; i <= 90; i++) {
-        osszeg += i;
-    }
-    printf("%d\n", osszeg);
+    printf("\n");
     return 0;
 }
