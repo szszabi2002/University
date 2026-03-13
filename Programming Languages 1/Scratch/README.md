@@ -1,15 +1,18 @@
 # Strandlabda Játék - Scratch Projekt
 
-Programozási nyelvek 1 Scratch házi feladat. https://scratch.mit.edu/projects/1280411411
+**Programozási nyelvek 1** - Scratch házi feladat.
+**Játék linkje:** [Kattints ide a játékhoz!](https://scratch.mit.edu/projects/1280411411)
 **Készítette:** Szincsák Szabolcs
 
 ## A játék leírása
-A játék célja, hogy minél több pontot szerezzünk a strandlabda elkapásával, miközben elkerüljük a bombákat.
+A játék célja, hogy pontosan 1 perc alatt minél több pontot szerezzünk a mozgó strandlabda elkapásával (kattintás), miközben ügyesen elkerüljük a bombákat.
 
 ### Funkciók:
-* **Mozgás:** A labda és a bombák véletlenszerűen mozognak a képernyőn.
-* **Pontszerzés:** Ha rákattintasz a labdára, +1 pontot kapsz.
-* **Veszély:** Ha a bombára kattintasz, a játék véget ér.
+* **Start menü:** A játék a Zöld Zászló megnyomása után a START gombbal indítható.
+* **Időzítő:** A játékosnak 60 másodperce van a pontgyűjtésre.
+* **Mozgás (Ciklusok):** A labda és a bomba is folyamatosan, véletlenszerűen mozog a képernyőn.
+* **Pontszerzés (Változók & Hangok):** Ha rákattintasz a labdára, hangeffekt kíséretében +1 pontot kapsz.
+* **Veszély (Feltételek):** Ha a bombára kattintasz, a játék azonnal véget ér (Game Over képernyő).
 
 ## Képernyőkép
-<img width="2093" height="807" alt="Képernyőkép" src="https://github.com/user-attachments/assets/8b5ee417-556f-4146-a070-10cee0c27ca3" />
+<img width="1918" height="874" alt="Screenshot 2026-03-13 010443" src="https://github.com/user-attachments/assets/4ae82405-5d0e-48d2-a371-8934882e9453" />
