@@ -2,7 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,c,c++,csharp,java,assembler
 
 ### Assembler ###
-*.exe
 *.o
 *.obj
 *.bc
